@@ -20,7 +20,7 @@ In the Visual Studio menu bar, click on IIS Express to run the solution and if t
 Enter the query parameter. For instance 'ITunes 1st March 2012'
 
 ## How to run the test
-In visual studio, navigate to the 'RiskFirst.Microservices.Emmanuel.Test' project and expand.
+In visual studio, navigate to the 'GRM.Emmanuel.Test' project and expand.
 
 This project has a RecordTests file with 3 tests
 ```
